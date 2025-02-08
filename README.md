@@ -34,3 +34,4 @@ The **Job Application Portal** is a full-stack web application built using the *
 
 ### **Database (MongoDB Atlas)**
 - Stores user profiles, job listings, and applications.
+- 
